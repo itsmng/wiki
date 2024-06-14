@@ -38,7 +38,7 @@ Allez sur le lien suivant pour plus d'informations [https://opendyslexic.org/](h
 
 Autoriser l'accès à la fonctionnalité d'accessibilité dans `Profiles`.
 
-![allow profil permissions](/accessibility/allow_profil_permissions.png)
+![allow profil permissions](/files/img/accessibility/allow_profil_permissions.png)
 
 ## Comment configurer l'accessibilité
 
@@ -50,11 +50,11 @@ Vous pouvez ici modifier `la police` et `l'échelle` de l'interface utilisateur.
 
 Vous pouvez également `activer/désactiver` les raccourcis.
 
-![setup accessibility for myself](/accessibility/setup_accessibility.png)
+![setup accessibility for myself](/files/img/accessibility/setup_accessibility.png)
 
 Pour définir des raccourcis, _toggle_ the view, cliquez sur le raccourci que vous voulez changer et définissez la combinaison de touches avec votre clavier. Cliquez sur `Mise à jour`.
 
-![set shortcuts](/accessibility/set_shortcut.png)
+![set shortcuts](/files/img/accessibility/set_shortcut.png)
 
 N'oubliez pas de cliquer sur `Sauvegarder` au bas du formulaire.
 
@@ -67,4 +67,4 @@ Allez dans l'onglet `Accessibilité`.
 
 Ici, vous pouvez changer la police de l'interface utilisateur, l'échelle de l'interface utilisateur et les raccourcis "Activer/Désactiver".
 
-![setup_accessibility_for_other.png](/accessibility/setup_accessibility_for_other.png)
+![setup_accessibility_for_other.png](/files/img/accessibility/setup_accessibility_for_other.png)

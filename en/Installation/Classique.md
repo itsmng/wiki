@@ -77,39 +77,39 @@ There are two ways to install ITSM-NG :
 
 Go to [http://localhost/itsm-ng](http://localhost/itsm-ng) and follow the next steps.
 
-![Choose default language](/installation/setup_choose_language.png)
+![Choose default language](/en/img/installation/setup_choose_language.png)
 
 Select the default language and click on `OK`.
 
-![Accept license](/installation/setup_accept_license.png)
+![Accept license](/en/img/installation/setup_accept_license.png)
 
 Accept the license and click on `Continue`.
 
-![Update or install](/installation/setup_install.png)
+![Update or install](/en/img/installation/setup_install.png)
 
 Click on `Install` to run the installation steps.
 
 `Note : please read the `[Update documentation](update.md)` to update from an old ITSM-NG version or to migrate GLPI to ITSM-NG.`
 
-![Testing required librairies](/installation/setup_step_0.png)
+![Testing required librairies](/en/installation/setup_step_0.png)
 
 Before configuration, a verification of the required libraries is carried out. If everything is OK, click on `Continue` otherwise install the missing libraries and click on `Try again`.
 
-![MySQL connection](/installation/setup_step_1.png)
+![MySQL connection](/en/img/installation/setup_step_1.png)
 
 Set the MySQL configuration and click on `Continue`.
 
-![MySQL database](/installation/setup_step_2.png)
+![MySQL database](/en/img/installation/setup_step_2.png)
 
 Select the database and click on `Continue`.
 
 `Note : to create a new database from the interface, the MySQL user entered in the previous step must have the rights to create one.`
 
-![MySQL database](/installation/setup_step_3.png)
+![MySQL database](/en/img/installation/setup_step_3.png)
 
 After the database initialization, click on `Continue`.
 
-![MySQL database](/installation/setup_step_4.png)
+![MySQL database](/en/img/installation/setup_step_4.png)
 
 Now, you can connect to ITSM-NG with the default user itsm/itsm.
 

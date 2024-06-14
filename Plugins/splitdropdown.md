@@ -20,7 +20,7 @@ Unzip the plugin archive, set Apache rights and enjoy !
 
 Go to `Configuration > Plugins` and click on `Split dropdown` to access the configuration.
 
-![Add splitted dropdown](/splitdropdown/splitdropdown_add.png)
+![Add splitted dropdown](/files/img/plugins/splitdropdown/splitdropdown_add.png)
 
 * Dropdown : select the dropdown to split (ITIL Categories / Locations)
 * Enable split : Enable or disable splitting
@@ -28,10 +28,10 @@ Go to `Configuration > Plugins` and click on `Split dropdown` to access the conf
 
 The splitting dropdown list is displayed below.
 
-![Splitted dropdown list](/splitdropdown/splitdropdown_list.png)
+![Splitted dropdown list](/files/img/plugins/splitdropdown/splitdropdown_list.png)
 
 When you add a new enabled splitted dropdown, a preview is displayed for you to test the dropdown split.
 
-![Splitted dropdown preview](/splitdropdown/splitdropdown_preview.png)
+![Splitted dropdown preview](/files/img/plugins/splitdropdown/splitdropdown_preview.png)
 
 `Note : a splitted dropdown is updated when you added the same dropdown type.`

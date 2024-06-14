@@ -15,7 +15,7 @@ Le service central d'authentification (CAS) est un protocole de connexion unique
 Aller sur `Configuration -> Authentification`.
 Et ensuite sur `Autres méthodes d'authentification`.
 
-![menu-authentification.png](/configuration/menu-authentification.png)
+![menu-authentification.png](/files/img/configuration/menu-authentification.png)
 
 Ensuite, dans la section `Authentification par CAS	` vous devez définir l'Hôte CAS (sans le https:// , http://), et ensuite lui indiquer sa version.
 

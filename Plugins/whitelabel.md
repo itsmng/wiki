@@ -20,39 +20,39 @@ Unzip the plugin archive, set Apache rights and enjoy !
 
 To custom the theme, go to `Setup > Plugins` and click on `White Label` plugin name.
 
-![](/whitelabel/whitelabel_primary_color.png)
+![](/files/img/plugins/whitelabel/whitelabel_primary_color.png)
 
 The `Primary color` corresponds to the top part color of the navigation bar.
 
-![](/whitelabel/whitelabel_icon_color.png)
+![](/files/img/plugins/whitelabel/whitelabel_icon_color.png)
 
 The `Header icons color` corresponds to the icons color at the top right of the navigation bar.
 
-![](/whitelabel/whitelabel_menu_color.png)
+![](/files/img/plugins/whitelabel/whitelabel_menu_color.png)
 
 The `Menu color` section allows you to fully customize the colors of the menu.
 
-![](/whitelabel/whitelabel_alert_color.png)
+![](/files/img/plugins/whitelabel/whitelabel_alert_color.png)
 
 The `Alert` section changes the style of the popups that appear at the bottom right of your screen when you create or update an item.
 
-![](/whitelabel/whitelabel_tableheader_color.png)
+![](/files/img/plugins/whitelabel/whitelabel_tableheader_color.png)
 
 With these options, you can customize the table headers style.
 
-![](/whitelabel/whitelabel_objectname_color.png)
+![](/files/img/plugins/whitelabel/whitelabel_objectname_color.png)
 
 This option changes the color of the name of the object present in the various tables of the application.
 
-![](/whitelabel/whitelabel_button_color.png)
+![](/files/img/plugins/whitelabel/whitelabel_button_color.png)
 
 The `Button color` section allows you to customize the style of all button type of ITSM-NG.
 
-![](/whitelabel/whitelabel_img.png)
+![](/files/img/plugins/whitelabel/whitelabel_img.png)
 
 With these options, you can update the favicon application and the logos present at the top left of navigation bar and on the login page.
 
-![](/whitelabel/whitelabel_import_css.png)
+![](/files/img/plugins/whitelabel/whitelabel_import_css.png)
 
 The Whitelabel plugin allows you to import your own css file.
 

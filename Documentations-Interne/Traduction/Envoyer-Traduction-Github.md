@@ -13,15 +13,15 @@ Le projet weblate ce trouve [ICI](https://hosted.weblate.org/projects/itsm-ng/it
 
 # Manipulation a faire
 - Aller dans `Gérer -> Maintenance du dépot`
-![menu.png](/documentations-interne/traduction/menu.png)
+![menu.png](/Documentations-Interne/files/img/traduction/menu.png)
 
 ## Faire le commit Git
 
 Pour faire le commit cliquer sur `commit`.
 
-![commit.png](/documentations-interne/traduction/commit.png)
+![commit.png](/Documentations-Interne/files/img/traduction/commit.png)
 
 ## Déclencher la Pull Request
 Pour déclencher la pull request cliquer sur `Pousser` et une Pull Request va etre créer sur Github avec comment demandeur Weblate, les contributions seront faite avec les noms d'utilisateurs Weblate.
 
-![pr.png](/documentations-interne/traduction/pr.png)
+![pr.png](/Documentations-Interne/files/img/traduction/pr.png)

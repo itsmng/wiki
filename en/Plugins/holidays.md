@@ -24,10 +24,10 @@ Go to `Setup > Plugins` and click on the `Holidays` plugin name to access the co
 
 Select your country and the calendar you want.
 
-![](/holidays/holidays_config.png)
+![](/en/img/holidays/holidays_config.png)
 
 Click on `Save`.
 
 If you check your calendar in `Setup > Dropdowns` menu, you will be able to see that all the public holidays of your country have been added.
 
-![](/holidays/holidays_result.png)
+![](/en/img/holidays/holidays_result.png)

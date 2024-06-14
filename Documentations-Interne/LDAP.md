@@ -22,10 +22,10 @@ DN du compte: `cn=admin,dc=itsm-ng,dc=com`
 Mot de passe du compte: `qwerty`
 Champ de l'identifiant: `cn`
 
-![capture_d’écran_du_2024-01-19_11-57-57.png](/documentations-interne/ldap/capture_d’écran_du_2024-01-19_11-57-57.png)
+![capture_d’écran_du_2024-01-19_11-57-57.png](/Documentations-Interne/files/img/ldap/capture_d’écran_du_2024-01-19_11-57-57.png)
 
 # Connection
-![capture_d’écran_du_2024-01-19_12-00-23.png](/documentations-interne/ldap/capture_d’écran_du_2024-01-19_12-00-23.png)
+![capture_d’écran_du_2024-01-19_12-00-23.png](/Documentations-Interne/files/img/ldap/capture_d’écran_du_2024-01-19_12-00-23.png)
 
 Identifiant: `jean`
 Mot de passe: `qwerty`

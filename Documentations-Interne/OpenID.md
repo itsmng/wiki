@@ -11,7 +11,7 @@ dateCreated: 2024-01-05T13:52:38.086Z
 # Configuration
 Aller dans `Configuration -> Authentification -> Open ID connect configuration
 `
-![oidc_config.png](/documentations-interne/oidc/oidc_config.png)
+![oidc_config.png](/Documentations-Interne/files/img/oidc/oidc_config.png)
 
 Activate open ID connect: `Oui`
 Provider: `https://oidctest.wsweet.org/.well-known/openid-configuration`
@@ -20,9 +20,9 @@ Client Secret:	`tardis`
 Scopes: `openid,profile,email,roles`
 
 ## Mapping
-![oidc_mapping.png](/documentations-interne/oidc/oidc_mapping.png)
+![oidc_mapping.png](/Documentations-Interne/files/img/oidc/oidc_mapping.png)
 
-![oidc_mapping_config.png](/documentations-interne/oidc/oidc_mapping_config.png)
+![oidc_mapping_config.png](/Documentations-Interne/files/img/oidc/oidc_mapping_config.png)
 
 Username: `given_name`
 Nom de famille: `family_name`

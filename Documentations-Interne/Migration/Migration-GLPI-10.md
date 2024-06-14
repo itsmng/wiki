@@ -10,7 +10,7 @@ dateCreated: 2023-12-05T10:20:05.466Z
 
 # Migrer sans suppression de donner
 - Telecharger le fichier SQL
-[migrate_glpi_10_-_itsm.sql](/migrate_glpi_10_-_itsm.sql)
+[migrate_glpi_10_-_itsm.sql](/Documentations-Interne/files/migrate_glpi_10_-_itsm.sql)
 ```
 	mysql -u root -p glpi10 < migrate_glpi_10_-_itsm.sql
 ```
@@ -20,7 +20,7 @@ dateCreated: 2023-12-05T10:20:05.466Z
 
 ## Supression des donnees inutiles
 - Telecharger le fichier SQL
-[migrate_glpi_10_-_itsm.sql](/migrate_glpi_10_-_itsm.sql)
+[migrate_glpi_10_-_itsm.sql](/Documentations-Interne/files/migrate_glpi_10_-_itsm.sql)
 
 ```
 	mysql -u root -p glpi10 < migrate_glpi_10_-_itsm_supprimer_donnee.sql

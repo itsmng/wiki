@@ -79,39 +79,39 @@ Il y a deux facons d'installer ITSM-NG :
 
 Allez sur [http://localhost/itsm-ng](http://localhost/itsm-ng) et suivre les étapes suivantes.
 
-![Choisir une langue par défaut](/installation/setup_choose_language.png)
+![Choisir une langue par défaut](/files/img/installation/setup_choose_language.png)
 
 Sélectionnez la langue par défaut et cliquez sur `OK`.
 
-![Accepter la licence](/installation/setup_accept_license.png)
+![Accepter la licence](/files/img/installation/setup_accept_license.png)
 
 Acceptez la licence et cliquez sur `Continuer`.
 
-![Mettre a jour ou installer](/installation/setup_install.png)
+![Mettre a jour ou installer](/files/img/installation/setup_install.png)
 
 Clicqez sur `Installer` pour lances les étapes d'installation.
 
 `Note : Veuiller lire `[La documentation de mise a our](update.md)` pour mettre a jour depuis une ancienne version de ITSM-NG ou migrer de GLPI à ITSM-NG.`
 
-![Test des librairies obligatoires](/installation/setup_step_0.png)
+![Test des librairies obligatoires](/files/img/installation/setup_step_0.png)
 
 Avant la configuration, une vérification des librairies nécessaire est effectuée. Si tout est OK, cliquez sur `Continuer` sinon, installez les librairies manquantes et cliquez sur `Ré-essayer `.
 
-![Connexion MySQL](/installation/setup_step_1.png)
+![Connexion MySQL](/files/img/installation/setup_step_1.png)
 
 Remplissez les informations de connexion MySQL et cliquez sur `Continuer`.
 
-![Base de donnée MySQL](/installation/setup_step_2.png)
+![Base de donnée MySQL](/files/img/installation/setup_step_2.png)
 
 Sélectionnez la base de donnée et cliquez sur `Continuer`.
 
 `Note : Pour créer une base de donnée depuis l'interface, L'utilisateur MySQL entré précédemment doit avoir les droits de création de base de donnée.`
 
-![Initialisation de la base de donnée MySQL](/installation/setup_step_3.png)
+![Initialisation de la base de donnée MySQL](/files/img/installation/setup_step_3.png)
 
 Après l'initialisation de la base de donnée, cliquez sur `Continue`.
 
-![Finalisation](/installation/setup_step_4.png)
+![Finalisation](/files/img/installation/setup_step_4.png)
 
 Maintenant, vous pouvez vous connecter sur ITSM-NG avec l'utilisateur par défaut itsm/itsm.
 

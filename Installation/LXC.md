@@ -18,29 +18,29 @@ To use our LXC template, you need to add the template in Proxmox.
 
 You will find all released templates at the following link : [https://github.com/itsmng/itsm-lxc/releases](https://github.com/itsmng/itsm-lxc/releases).
 
-![](/lxc/step1.png)
+![](/files/img/files/img/lxc/step1.png)
 
 Then, follow the next steps to integrate the LXC template in Proxmox :
 
 * Select the LXC template storage.
 
-![](/lxc/step2.png)
+![](/files/img/lxc/step2.png)
 
 * Click on `CT Templates`.
 
-![](/lxc/step3.png)
+![](/files/img/lxc/step3.png)
 
 * Click on `Upload`.
 
-![](/lxc/step4.png)
+![](/files/img/lxc/step4.png)
 
 * Click on `Select File` and select the LXC template.
 
-![](/lxc/step5.png)
+![](/files/img/lxc/step5.png)
 
 * Click on `Upload`.
 
-![](/lxc/step6.png)
+![](/files/img/lxc/step6.png)
 
 The template is now added in Proxmox. You can use it to create a container.
 
@@ -50,7 +50,7 @@ Go to your Proxmox administration panel and create a new CT.
 
 On the `Template` tab, choose the ITSM-NG template.
 
-![](/lxc/step9.png)
+![](/files/img/lxc/step9.png)
 
 Once your container is created and started, connect to the command line console and log in with the root user.
 
@@ -58,23 +58,23 @@ Next, complete the ITSM-NG installation by following the on-screen instructions.
 
 Set a MySQL user for ITSM-NG.
 
-![](/lxc/step19.png)
+![](/files/img/lxc/step19.png)
 
 Set a MySQL password.
 
-![](/lxc/step20.png)
+![](/files/img/lxc/step20.png)
 
 Then, set a database name for ITSM-NG.
 
-![](/lxc/step21.png)
+![](/files/img/lxc/step21.png)
 
 The installation can take several minutes.
 
-![](/lxc/step22.png)
+![](/files/img/lxc/step22.png)
 
 When the installation is completed, you can access to your ITSM-NG instance at the following address : [http://my-itsmng-ip](http://my-itsmng-ip)
 
-![](/lxc/step23.png)
+![](/files/img/lxc/step23.png)
 
 ## How to add ITSM-NG LXC template in other hypervisor
 

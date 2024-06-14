@@ -29,11 +29,11 @@ First step, copy the `config_db.php` and `glpicrypt.key` files present in the ol
 
 Then, go to your ITSM-NG or GLPI url.
 
-![Check requirements](/update/update_config_already_here.png)
+![Check requirements](/files/img/update/update_config_already_here.png)
 
 If the requirements are OK, click on `Upgrade`.
 
-![Update database](/update/update_database.png)
+![Update database](/files/img/update/update_database.png)
 
 Above, an example of a GLPI 9.5.6 migration to ITSM-NG 1.0.1.
 

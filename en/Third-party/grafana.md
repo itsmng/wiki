@@ -34,7 +34,7 @@ To allow a user to connect to the API, there are two options :
 
 `Note: we recommend to only enable the login with external token for more security.`
 
-![](/grafana/grafana_api_configuration.png)
+![](/en/img/grafana/grafana_api_configuration.png)
 
 Next, you need to configure an `API client` to allow your Grafana server to issue API calls to your ITSM-NG application.
 
@@ -46,7 +46,7 @@ Click on `Add`.
 
 Then, go to the configuration page of the user who will be authorized to connect via the API and check `Regenerate` for the `API token`.
 
-![](/grafana/grafana_api_user.png)
+![](/en/img/grafana/grafana_api_user.png)
 
 Click on `Save`.
 
@@ -80,15 +80,15 @@ The first step to configure `JSON API data source` is to install the `JSON API` 
 
 Go to `Configuration > Plugins` and search `JSON API` and install the plugin.
 
-![](/grafana/grafana_json_api_plugin.png)
+![](/en/img/grafana/grafana_json_api_plugin.png)
 
 Next, click on `Create a JSON API data source` to create your ITSM-NG configuration.
 
-![](/grafana/grafana_json_api_create.png)
+![](/en/img/grafana/grafana_json_api_create.png)
 
 Set a `Name`, your ITSM-NG `URL of the API` and add two header `Session-Token` and `App-Token`. See `ITSM-NG configuration` above to retrieve all information.
 
-![](/grafana/grafana_json_api_configuration.png)
+![](/en/img/grafana/grafana_json_api_configuration.png)
 
 Then, click on `Save & test`.
 
@@ -110,7 +110,7 @@ Or copy the following dashboard ID :
 
 Next, in your Grafana, click on the Dashboard icon and `Import`.
 
-![](/grafana/grafana_dashboard_import.png)
+![](/en/img/grafana/grafana_dashboard_import.png)
 
 In the case you are using GitHub download method, click on `Upload JSON file` and select the `ITSM-API.json` on the `grafana-template` folder.
 
@@ -118,7 +118,7 @@ You can also use our `grafana.com` dashboard by using the ID above. Copy the ID 
 
 You can update the `Name` as you want and select the previously created `JSON API` data source.
 
-![](/grafana/grafana_dashboard_itsm.png)
+![](/en/img/grafana/grafana_dashboard_itsm.png)
 
 Click on `Import`.
 
@@ -133,14 +133,14 @@ The default provided dashboard contains three different type of reporting :
 	* Tickets with exceeded resolution time last month
 	* Tickets with time to open exceeded last month
 
-![](/grafana/grafana_dashboard_ticketing.png)
+![](/en/img/grafana/grafana_dashboard_ticketing.png)
 
 * Assets
 	* Computers per location / status / warranty / manufacturer
 	* Network equipment per type / manufacturer
 	* Number of network equipment
 
-![](/grafana/grafana_dashboard_asset.png)
+![](/en/img/grafana/grafana_dashboard_asset.png)
 
 * Financial
 	* Total budget
@@ -150,4 +150,4 @@ The default provided dashboard contains three different type of reporting :
 	* Computers per supplier / amortization type
 	* Network equipment per supplier
 
-![](/grafana/grafana_dashboard_financial.png)
+![](/en/img/grafana/grafana_dashboard_financial.png)

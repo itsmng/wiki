@@ -16,4 +16,4 @@ Il existe differente action dans ITSM-NG
 - La Validation, cette action permet de demandez a un groupe ou a une personne l'approbation du ticket
 - La Solution, cette action permet de joindre une solution existante qui est ecrite dans la base de connaisance, ou de creer un nouvelle element dans cette base. Ou bien de simplement ecrire la solution sans l'enregistrer. Cette action clotura le ticket.
 
-![action_ticket.png](/fonctionnel/creation-ticket/action_ticket.png)
+![action_ticket.png](/files/img/fonctionnel/creation-ticket/action_ticket.png)

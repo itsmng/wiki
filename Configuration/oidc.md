@@ -24,7 +24,7 @@ The following instructions will guide you through the configuration process :
 
 ### Configuration
 
-![](/oidc/oidc_config.png)
+![](/files/img/oidc/oidc_config.png)
 
 On this first pane (see above image), `Activate openID connect` needs to be set to `Yes`.
 
@@ -42,7 +42,7 @@ To access the mapping configuration pane, click on `Mapping`.
 
 
 
-![](/oidc/oidc_mapping.png)
+![](/files/img/oidc/oidc_mapping.png)
 
 To force the update of OIDC users information in ITSM-NG, use the following command :
 
@@ -50,7 +50,7 @@ To force the update of OIDC users information in ITSM-NG, use the following comm
 
 After activating OpenID connect, a new button will appear on the login page.
 
-![](/oidc/oidc_login.png)
+![](/files/img/oidc/oidc_login.png)
 
 If you click on `SSO Login`, you will be redirected to your provider and you will be able to login. Once done, access to ITSM-NG is granted.
 
