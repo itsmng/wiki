@@ -2,13 +2,13 @@
 title: Builder le RPM
 description: 
 published: true
-date: 2024-06-17T09:36:34.319Z
+date: 2024-06-17T09:36:49.884Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-17T09:36:34.319Z
 ---
 
-# Connection au serveur
+# Connexion au serveur
 ## Depot RPM
 ```
 ssh root@172.18.50.13
