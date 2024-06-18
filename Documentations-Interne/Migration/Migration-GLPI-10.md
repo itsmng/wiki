@@ -2,7 +2,7 @@
 title: Migrer d'un GLPI 10 vers 9.5
 description: 
 published: true
-date: 2024-06-14T13:12:39.576Z
+date: 2024-06-18T08:14:54.987Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T10:20:05.466Z
@@ -20,7 +20,7 @@ dateCreated: 2023-12-05T10:20:05.466Z
 
 ## Supression des donnees inutiles
 - Telecharger le fichier SQL
-[migrate_glpi_10_-_itsm.sql](/Documentations-Interne/files/migrate_glpi_10_-_itsm.sql)
+[migrate_glpi_10_-_itsm_supprimer_donnee.sql](/Documentations-Interne/files/migrate_glpi_10_-_itsm_supprimer_donnee.sql)
 
 ```
 	mysql -u root -p glpi10 < migrate_glpi_10_-_itsm_supprimer_donnee.sql
