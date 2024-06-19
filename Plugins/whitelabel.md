@@ -2,7 +2,7 @@
 title: whitelabel
 description: 
 published: true
-date: 2024-06-19T09:00:38.119Z
+date: 2024-06-19T09:02:29.008Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-03T13:39:15.259Z
@@ -17,12 +17,12 @@ L'installation de ce plugin se fait en suivant le processus standard pour les pl
 Décompressez l'archive du plugin, définissez les droits d'Apache et profitez-en !
 
 ### Configuration des droits
-Vous devez donner la permission d'ecriture a votre serveur web sur le dossier plugins/whitelabel/uploads.
+Vous devez donner la permission d'ecriture a votre serveur web sur le dossier `plugins/whitelabel/uploads` ainsi le dossier pics de votre ITSM-NG.
 
 #### Sur Debian
-sudo chown -R www-data:www-data plugins/whitelabel/uploads
+sudo chown -R www-data:www-data /var/www/itsm-ng/plugins/whitelabel/uploads /var/www/itsm-ng/pics
 #### Sur RHEL
-sudo chown -Rhttpd:httpd plugins/whitelabel/uploads
+sudo chown -Rhttpd:httpd /var/www/itsm-ng/plugins/whitelabel/uploads /var/www/itsm-ng/pics
 
 
 ## Features
