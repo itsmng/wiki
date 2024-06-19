@@ -52,7 +52,7 @@ Après avoir activé OpenID connect, un nouveau bouton apparaîtra sur la page d
 
 ![](/files/img/oidc/oidc_login.png)
 
-Si vous cliquez sur `SSO Login`, vous serez redirigé vers votre fournisseur et vous pourrez vous connecter. L'accès à ITSM-NG vous sera alors accordé.
+Si vous cliquez sur `Connection en SSO`, vous serez redirigé vers votre fournisseur et vous pourrez vous connecter. L'accès à ITSM-NG vous sera alors accordé.
 
 ## Liens utiles
 
