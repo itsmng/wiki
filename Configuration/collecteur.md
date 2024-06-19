@@ -1,8 +1,8 @@
 ---
-title: Collecteur de message
+title: Collecteur de mail
 description: 
 published: true
-date: 2024-06-19T12:05:07.522Z
+date: 2024-06-19T12:05:21.199Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-19T12:05:07.522Z
