@@ -8,24 +8,24 @@ editor: markdown
 dateCreated: 2023-11-03T13:40:41.681Z
 ---
 
-This plugin allows you to automatically set holidays for more than 40 countries.
+Ce plugin vous permet de définir automatiquement les jours fériés pour plus de 40 pays.
 
 ## Installation
 
-Installing this plugin is done following the standard process for itsm plugins, simply clone [the git repository](https://github.com/itsmng/holidays) or [download a release](https://github.com/itsmng/holidays/releases) and place it within ITSM `plugins` folder.
+L'installation de ce plugin se fait en suivant le processus standard pour les plugins ITSM, il suffit de cloner [le dépôt git](https://github.com/itsmng/holidays) ou [télécharger une version](https://github.com/itsmng/holidays/releases) et de le placer dans le dossier ITSM `plugins`.
 
-Unzip the plugin archive, set Apache rights and enjoy !
+Décompressez l'archive du plugin, définissez les droits d'Apache et profitez-en !
 
 ## Usage
 
-Go to `Setup > Plugins` and click on the `Holidays` plugin name to access the configuration.
+Allez dans `Configuration > Plugins` et cliquez sur le nom du plugin `Holidays` pour accéder à la configuration.
 
-Select your country and the calendar you want.
+Sélectionnez votre pays et le calendrier souhaité.
 
 ![](/files/img/plugins/holidays/holidays_config.png)
 
-Click on `Save`.
+Cliquez sur `Envoyer`.
 
-If you check your calendar in `Setup > Dropdowns` menu, you will be able to see that all the public holidays of your country have been added.
+Si vous vérifiez votre calendrier, aller dans le menu `Configuration > Intitulés`, vous pourrez voir que tous les jours fériés de votre pays ont été ajoutés.
 
 ![](/files/img/plugins/holidays/holidays_result.png)
