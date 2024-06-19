@@ -2,7 +2,7 @@
 title: whitelabel
 description: 
 published: true
-date: 2024-06-14T13:12:34.719Z
+date: 2024-06-19T08:59:33.578Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-03T13:39:15.259Z
@@ -15,6 +15,15 @@ This plugins aims to allow its users to modify the look of their ITSM-NG applica
 Installing this plugin is done following the standard process for itsm plugins, simply clone [the git repository](https://github.com/itsmng/whitelabel) or [download a release](https://github.com/itsmng/whitelabel/releases) and place it within ITSM `plugins` folder.
 
 Unzip the plugin archive, set Apache rights and enjoy !
+
+### Configuration des droits
+Vous devez donner la permission d'ecriture a votre serveur web sur le dossier plugins/whitelabel/uploads.
+
+#### Sur Debian
+sudo chown -R www-data:www-data plugins/whitelabel/uploads
+#### Sur RHEL
+sudo chown -Rhttpd:httpd plugins/whitelabel/uploads
+
 
 ## Features
 
