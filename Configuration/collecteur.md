@@ -2,14 +2,14 @@
 title: Collecteur de mail
 description: 
 published: true
-date: 2024-06-19T12:05:35.450Z
+date: 2024-06-19T12:05:47.105Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-19T12:05:07.522Z
 ---
 
 # Introduction
-Le collecteur permet de récupérer les mails sur une boite aux lettres pour ensuite créer un ticket.
+Le collecteur permet de récupérer les mails sur une boite mail pour ensuite créer un ticket.
 
 Cela fonctionne avec une boite mail dédié au ticketing ITSM-NG, ou ITSM-NG se connectera.
 
