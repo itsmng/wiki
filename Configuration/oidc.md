@@ -16,43 +16,43 @@ OpenID Connect ajoute une couche d'authentification au cadre d'autorisation OAut
 
 ITSM-NG utilise PHP OpenID Connect Basic Client de `jumbojett`, une bibliothèque simple qui permet à une application d'authentifier un utilisateur à travers le flux OpenID Connect.
 
-## How to setup ITSM-NG with OpenID Connect
+## Comment configurer ITSM-NG avec OpenID Connect ?
 
-On ITSM-NG, navigate to the `Setup` section, then select `Authentication`. On the displayed page, choose `OpenID connect authentication`. 
+Sur ITSM-NG, naviguez vers la section `Configuration`, puis sélectionnez `Authentification`. Sur la page affichée, choisissez `Authentication avec OpenID Connect`. 
 
-The following instructions will guide you through the configuration process : 
+Les instructions suivantes il vous guideront tout au long du processus de configuration : 
 
 ### Configuration
 
 ![](/files/img/oidc/oidc_config.png)
 
-On this first pane (see above image), `Activate openID connect` needs to be set to `Yes`.
+Dans le premier panneau (voir l'image ci-dessus), `Activer OpenID Connect ` doit être réglé sur `Oui`.
 
-`Note : forced connection will redirect you directly when reaching the login page. To bypass the redirection, use the following link : http://xx.xx.xx.xx/itsm-ng/index.php?noAUTO=1`
+`Note : La connexion forcée vous redirigera directement vers la page de connexion. Pour contourner la redirection, utilisez le lien suivant : http://xx.xx.xx.xx/itsm-ng/index.php?noAUTO=1`
 
-The `Provider`, `Client ID` and `Client Secret` fields **are required** and must be completed with corresponding information from your authorization provider in order to use OpenID Connect.
+Les champs `Provider`, `Client ID` et `Client Secret` **sont obligatoires** et doivent être complétés avec les informations correspondant à votre fournisseur d'autorisation afin d'utiliser OpenID Connect.
 
-Don't forget to `Save` the configuration.
+N'oubliez pas d'enregistrer la configuration.
 
-### Mapping
+### Mappage
 
-The mapping configuration allows you to link OIDC user information in ITSM-NG user.
+La configuration du mappage vous permet de lier les informations de l'utilisateur OIDC à celles de l'utilisateur ITSM-NG.
 
-To access the mapping configuration pane, click on `Mapping`.
+Pour accéder au panneau de configuration du mappage, cliquez sur `Mappage`.
 
 
 
 ![](/files/img/oidc/oidc_mapping.png)
 
-To force the update of OIDC users information in ITSM-NG, use the following command :
+Pour forcer la mise à jour des informations sur les utilisateurs OIDC dans ITSM-NG, utilisez la commande suivante :
 
     php bin/console itsmng:oidc:update
 
-After activating OpenID connect, a new button will appear on the login page.
+Après avoir activé OpenID connect, un nouveau bouton apparaîtra sur la page de connexion.
 
 ![](/files/img/oidc/oidc_login.png)
 
-If you click on `SSO Login`, you will be redirected to your provider and you will be able to login. Once done, access to ITSM-NG is granted.
+Si vous cliquez sur `SSO Login`, vous serez redirigé vers votre fournisseur et vous pourrez vous connecter. L'accès à ITSM-NG vous sera alors accordé.
 
 ## Liens utiles
 
