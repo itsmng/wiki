@@ -2,7 +2,7 @@
 title: Migrer d'un GLPI 10 vers 9.5
 description: 
 published: true
-date: 2024-06-19T07:38:44.807Z
+date: 2024-06-19T07:40:18.792Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T10:20:05.466Z
@@ -12,7 +12,7 @@ dateCreated: 2023-12-05T10:20:05.466Z
 - Vous devez remplacer les fichiers de GLPI sauf pour le dossier config, plugins et files par les fichiers d’ITSM-NG.
 
 - Telecharger le fichier SQL
-[migration GLPI_10_ITSM_1.0.sql](/Documentations-Interne/files/migration GLPI_10_ITSM_1.0.sql)
+[migration_glpi_10_itsm_1.0.sql](/Documentations-Interne/files/migration_glpi_10_itsm_1.0.sql)
 
 - Executer la migration:
 ```
