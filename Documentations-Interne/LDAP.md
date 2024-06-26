@@ -2,7 +2,7 @@
 title: Tester la connexion LDAP
 description: 
 published: true
-date: 2024-06-14T13:12:04.892Z
+date: 2024-06-26T09:53:03.988Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-19T11:02:45.378Z
@@ -29,3 +29,9 @@ Champ de l'identifiant: `cn`
 
 Identifiant: `jean`
 Mot de passe: `qwerty`
+
+# Ajout / Modif de compte LDAP
+Les comptes peuvent etre gerer sur cette page: http://172.18.50.3/fusiondirectory
+
+utilisateur: `admin`
+mot de passe: `qwerty`
