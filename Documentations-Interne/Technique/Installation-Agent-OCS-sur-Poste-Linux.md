@@ -2,7 +2,7 @@
 title: Installation de l'agent sur un poste de travail sur Linux
 description: 
 published: true
-date: 2024-06-14T13:12:45.451Z
+date: 2024-06-27T17:37:26.757Z
 tags: ocs, linux, bsd
 editor: markdown
 dateCreated: 2024-01-19T12:16:22.793Z
@@ -25,6 +25,7 @@ commande :
 ```bash
   dnf install https://rpm.ocsinventory-ng.org/ocsinventory-release-latest.fc$(rpm -
   E %fedora).ocs.noarch.rpm
+  dnf install ocsinventory-agent
 ```
 
 ## Redhat (8) :
@@ -36,6 +37,7 @@ se faire avec la commande :
   dnf install https://dl.fedoraproject.org/pub/epel/epel-se-latest-8.noarch.rpm
   https://rpm.ocsinventory-ng.org/ocsinventory-release-latest.fc$(rpm -
   E %fedora).ocs.noarch.rpm
+  dnf install ocsinventory-agent
 ```
 
 ## ArchLinux :
