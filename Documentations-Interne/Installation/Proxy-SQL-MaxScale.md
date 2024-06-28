@@ -2,7 +2,7 @@
 title: Proxy SQL avec Maxscale
 description: 
 published: true
-date: 2024-06-26T08:24:42.863Z
+date: 2024-06-28T09:49:38.579Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-26T08:24:42.863Z
@@ -77,7 +77,7 @@ module=galeramon
 servers=DB1,DB2,DB3 
 user=maxscale
 password=@ITSM-ng
-monitor_interval=1000s 
+monitor_interval=15s 
 
 
 [Galera-Service] 
