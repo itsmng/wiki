@@ -2,7 +2,7 @@
 title: Tester le collecteur de Mail
 description: 
 published: true
-date: 2024-07-22T07:32:22.163Z
+date: 2024-07-22T07:43:30.034Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-22T07:32:22.163Z
@@ -20,7 +20,7 @@ Creer un nouveau collecteur, et entre lui les informations de connection.
 Nom: `Ne-Pas-Repondre`
 Actif: `Oui`
 Serveur: `mail.itsm-ng.com`
-Options de connexion: `IMAP`, `-----`, `TLS`, `VALIDATE-CERT`, `-----`, `-----`, `-----`.
+Options de connexion: `IMAP`, `SSL`, `NO-TLS`, `VALIDATE-CERT`, `NORSH`, `-----`, `-----`.
 Dossier des messages entrants (optionnel, souvent INBOX):
 Port (optionnel): `993`
 Identifiant: `ne-pas-repondre`
