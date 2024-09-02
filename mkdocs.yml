@@ -1,0 +1,5 @@
+site_name: Documentation d'ITSM-NG
+theme:
+  name: readthedocs
+  locale: fr
+

@@ -1,0 +1,39 @@
+name: Build MkDocs website as artifacts
+on: [pull_request, push, workflow_dispatch]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - run: |
+          mkdir -p /tmp/docs
+          mv * /tmp/docs/
+          mv /tmp/docs .
+          mv docs/mkdocs.yml .
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12' 
+      - run: pip install mkdocs
+      - run: mkdocs build --site-dir public
+      - uses: actions/upload-artifact@v4
+        with:
+          name: docs
+          path: public
+
+      - name: create archive
+        run: |
+         rm -rf docs
+         mv public docs
+         tar -czf docs.tgz docs
+
+      - name: Release
+        uses: svenstaro/upload-release-action@v2
+        with:
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
+          file: docs.tgz
+          tag: ${{ github.ref }}
+          overwrite: true
+          
