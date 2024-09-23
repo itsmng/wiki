@@ -2,7 +2,7 @@
 title: OpenID Connect sur ITSM-NG
 description: 
 published: true
-date: 2024-06-14T13:12:03.376Z
+date: 2024-09-23T07:50:43.437Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-03T13:49:26.250Z
@@ -20,7 +20,7 @@ ITSM-NG utilise PHP OpenID Connect Basic Client de `jumbojett`, une bibliothèqu
 
 Sur ITSM-NG, naviguez vers la section `Configuration`, puis sélectionnez `Authentification`. Sur la page affichée, choisissez `Authentication avec OpenID Connect`. 
 
-Les instructions suivantes il vous guideront tout au long du processus de configuration : 
+Les instructions suivantes vous guideront tout au long du processus de configuration : 
 
 ### Configuration
 
