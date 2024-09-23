@@ -2,7 +2,7 @@
 title: Install on LXC
 description: 
 published: true
-date: 2024-06-14T13:13:00.506Z
+date: 2024-06-14T13:52:19.550Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-03T13:32:30.486Z

@@ -2,7 +2,7 @@
 title: Installation from source
 description: 
 published: true
-date: 2024-06-14T13:12:56.877Z
+date: 2024-06-14T13:52:18.078Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-03T10:35:27.707Z

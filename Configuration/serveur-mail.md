@@ -2,10 +2,10 @@
 title: Envoie d'e-mail
 description: 
 published: true
-date: 2024-06-15T14:00:57.917Z
+date: 2024-06-17T06:56:58.432Z
 tags: 
 editor: markdown
-dateCreated: 2024-06-15T14:00:57.917Z
+dateCreated: 2024-06-17T06:56:56.942Z
 ---
 
 # Introduction :

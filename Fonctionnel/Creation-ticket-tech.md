@@ -2,7 +2,7 @@
 title: Creation d'un ticket en tant que Technicien
 description: 
 published: true
-date: 2024-09-23T07:54:44.246Z
+date: 2024-09-23T07:54:45.649Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-14T09:21:55.498Z

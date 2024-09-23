@@ -2,7 +2,7 @@
 title: Les Actions sur un ticket
 description: 
 published: true
-date: 2024-09-23T07:55:13.764Z
+date: 2024-09-23T07:55:15.167Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-14T09:41:19.829Z

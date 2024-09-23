@@ -2,7 +2,7 @@
 title: OpenID Connect sur ITSM-NG
 description: 
 published: true
-date: 2024-09-23T07:50:43.437Z
+date: 2024-09-23T07:50:46.159Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-03T13:49:26.250Z

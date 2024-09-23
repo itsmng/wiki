@@ -2,7 +2,7 @@
 title: Edit translations
 description: 
 published: true
-date: 2024-06-14T13:12:31.774Z
+date: 2024-06-14T13:52:13.052Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-03T13:40:03.800Z

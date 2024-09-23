@@ -2,7 +2,7 @@
 title: Migrate ITSM-ng from GLPI 9.x
 description: 
 published: true
-date: 2024-06-14T13:13:02.452Z
+date: 2024-06-14T13:52:21.518Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-03T13:32:49.459Z

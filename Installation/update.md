@@ -2,7 +2,7 @@
 title: Mise a jour ITSM-NG ou migration depuis GLPI
 description: 
 published: true
-date: 2024-06-14T13:12:26.819Z
+date: 2024-06-14T13:52:08.112Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-05T09:44:00.874Z

@@ -2,7 +2,7 @@
 title: whitelabel
 description: 
 published: true
-date: 2024-06-19T09:03:53.084Z
+date: 2024-06-19T09:03:54.524Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-03T13:39:15.259Z

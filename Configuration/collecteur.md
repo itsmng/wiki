@@ -2,7 +2,7 @@
 title: Collecteur de mail
 description: 
 published: true
-date: 2024-09-23T07:53:23.760Z
+date: 2024-09-23T07:53:25.202Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-19T12:05:07.522Z
