@@ -2,14 +2,14 @@
 title: Les Actions sur un ticket
 description: 
 published: true
-date: 2024-08-20T14:23:54.710Z
+date: 2024-09-23T07:55:13.764Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-14T09:41:19.829Z
 ---
 
 # Les actions sur un ticket
-Il existe differente action dans ITSM-NG
+Il existe différentes actions dans ITSM-NG
 - Le suivi, cette action permet d'écrire un message à l'intention du créateur du ticket.
 - La Tache, cette action permet d'écrire la tache nécessaire à la résolution du ticket et de la planifier dans le planning d'ITSM-NG.
 - Le Document, cette action permet de joindre un nouveau document ou un document déjà présent dans ITSM-NG à ce ticket.
