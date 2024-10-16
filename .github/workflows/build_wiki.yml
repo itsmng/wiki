@@ -27,6 +27,7 @@ jobs:
         run: |
          rm -rf docs
          mv public docs
+         find docs -type f -name "*.html" -exec sed -i 's/\/files/\/docs\/files/g' {} \;
          tar -czf docs.tgz docs
 
       - name: Release
